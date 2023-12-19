@@ -15,3 +15,5 @@ In step four after executing the app.py file we will get a local IP address in t
 we need to copy and paste in the browser.
 STEP: 5
 Now we can use the website by providing a URL in the textbox.
+![image](https://github.com/Kadala-Sahithi/Phishing-URL-Recognization/assets/154342906/ea0f885e-451f-4b2f-8eff-8315587830b8)
+![image](https://github.com/Kadala-Sahithi/Phishing-URL-Recognization/assets/154342906/3fb44829-491e-4b25-a42a-d3fe4c088217)
